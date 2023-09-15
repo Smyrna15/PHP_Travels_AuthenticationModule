@@ -1,0 +1,3 @@
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200330-132838", Target File: "\1585567752518_afterMehtod.gif"]. @30-03-2020 13:29:12.0571 PM
+[ReportManager] Browser Action [getCurrentURL] successfully performed. With the following test data [https://www.phptravels.net/register]. @30-03-2020 13:29:13.0326 PM
+[ReportManager] Successfully created attachment [Animated Gif - afterMehtod] @30-03-2020 13:29:13.0329 PM

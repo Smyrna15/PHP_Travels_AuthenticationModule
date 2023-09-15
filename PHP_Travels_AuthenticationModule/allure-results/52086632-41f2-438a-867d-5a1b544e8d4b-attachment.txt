@@ -1,0 +1,50 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [4.1.20200309]
+################################################################################################################################################
+
+[ReportManager] Target URL: [https://www.phptravels.net/register], and after redirection if any: [https://www.phptravels.net/register] @30-03-2020 13:28:45.0640 PM
+[ReportManager] Initial URL: [data:,] @30-03-2020 13:28:45.0687 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200330-132838", Target File: "\1585567731127_beforeMethod.gif"]. @30-03-2020 13:28:51.0347 PM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.phptravels.net/register]. @30-03-2020 13:28:52.0368 PM
+[ReportManager] Successfully created attachment [Animated Gif - beforeMethod] @30-03-2020 13:28:52.0377 PM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.gui.phpTravels.TestRegistration.testEmailFormatValidation]
+Test Description:	[TC006 - Email format validation]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200330-132838", Target File: "\1585567733838_testEmailFormatValidation.gif"]. @30-03-2020 13:28:53.0941 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Pixelogic]. @30-03-2020 13:28:54.0693 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [Pixelogic]. @30-03-2020 13:28:55.0426 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Emerge]. @30-03-2020 13:28:56.0820 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [Emerge]. @30-03-2020 13:28:57.0568 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [00966552834612]. @30-03-2020 13:28:58.0922 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [00966552834612]. @30-03-2020 13:28:59.0633 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [emerge@zz]. @30-03-2020 13:29:00.0963 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [emerge@zz]. @30-03-2020 13:29:01.0691 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Zain2412]. @30-03-2020 13:29:02.0989 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [Zain2412]. @30-03-2020 13:29:03.0695 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [Zain2412]. @30-03-2020 13:29:05.0086 PM
+[ReportManager] Element Action [type] successfully performed. With the following test data [Zain2412]. @30-03-2020 13:29:05.0789 PM
+[ReportManager] Element Action [click] successfully performed. With the following test data [SIGN UP]. @30-03-2020 13:29:08.0686 PM
+[ReportManager] Browser Action [getCurrentURL] successfully performed. With the following test data [https://www.phptravels.net/register]. @30-03-2020 13:29:09.0544 PM
+[ReportManager] Element Action [isElementDisplayed] successfully performed. @30-03-2020 13:29:10.0361 PM
+[ReportManager] Element Action [isElementDisplayed] successfully performed. @30-03-2020 13:29:11.0221 PM
+[ReportManager] Element Action [getText] successfully performed. With the following test data [The Email field must contain a valid email address.]. @30-03-2020 13:29:12.0057 PM
+[ReportManager] The Email field must contain a valid email address.... @30-03-2020 13:29:12.0067 PM
+[ReportManager] AssertEquals PASSED; Expected [The Email field must contain a valid email address.] and Actual [The Email field must contain a valid email address.]. Comparison Type [CONTAINS]. Validation Type [POSITIVE]. @30-03-2020 13:29:12.0074 PM
+[ReportManager] Successfully created attachment [Animated Gif - testEmailFormatValidation] @30-03-2020 13:29:12.0082 PM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20200330-132838", Target File: "\1585567752518_afterMehtod.gif"]. @30-03-2020 13:29:12.0571 PM
+[ReportManager] Browser Action [getCurrentURL] successfully performed. With the following test data [https://www.phptravels.net/register]. @30-03-2020 13:29:13.0326 PM
+[ReportManager] Successfully created attachment [Animated Gif - afterMehtod] @30-03-2020 13:29:13.0329 PM
+
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @30-03-2020 13:29:13.0969 PM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [4.1.20200309]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<!-- Follow this guide to learn how to create and manipulate your test suites: 
+	https://testng.org/doc/documentation-main.html#testng-xml -->
+
+<suite name="PHP Travels Test Suite">
+	<test name="Registration Test">
+		<classes>
+			<class name= "tests.gui.phpTravels.TestRegistration" />
+		</classes>
+	</test>
+</suite>
